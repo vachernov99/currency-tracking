@@ -1,0 +1,3 @@
+#the exchange rate is parsed from the google finance.
+#multithreading is used
+#when the currency exchange rate changes, a push is displayed
